@@ -1,15 +1,9 @@
-0‚!–	*†H†÷
- ‚!‡0‚!ƒ10
-	`†He 0‚
-<	*†H†÷
- ‚
--‚
-)<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>Chặn tìm iPhone - @trinhjgiahaof</string>
+    <string>Block FMI - @trinhjgiahaof</string>
     <key>PayloadDescription</key>
     <string>- Chặn định vị&#xA;- Chặn phát âm thanh&#xA;- Chặn báo mất máy&#xA;- Chặn khoá từ xa&#xA;&#xA;Mọi vấn đề/thắc mắc xin hãy liên hệ Zalo 0345102601 (Hào).</string>
     <key>PayloadIdentifier</key>
@@ -30,7 +24,7 @@
           <key>DNSProtocol</key>
           <string>HTTPS</string>
           <key>ServerURL</key>
-          <string>https://apple.dns.nextdns.io/3bbb4d</string>
+          <string>https://apple.dns.nextdns.io/3bbb4d/NguyenKhoi</string>
         </dict>
         <key>OnDemandRules</key>
         <array>
@@ -67,7 +61,7 @@
         <key>PayloadUUID</key>
         <string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3bbb4d.dnsSettings.managed</string>
         <key>PayloadDisplayName</key>
-        <string>DNS</string>
+        <string>Block FMI</string>
         <key>PayloadOrganization</key>
         <string>NextDNS</string>
         <key>PayloadVersion</key>
@@ -75,97 +69,4 @@
       </dict>
     </array>
   </dict>
-</plist> ‚µ0‚ê0‚Ò  !Ç‘‡]Và¢Û‰C<°³0
-	*†H†÷
- 0K10	UAT10U
-ZeroSSL1*0(U!ZeroSSL RSA Domain Secure Site CA0
-250517000000Z
-260517235959Z010U
-nextdns.io0‚"0
-	*†H†÷
- ‚ 0‚
-‚ “›úAÊ²“["Ê“ÕÊÕZ;ã `:(Ÿƒ
-|1®ûéç	U.
-¢‡îÖ“`LñXÈuBgUÌomJy”SÎ’W2ÆÎóµ~9[~ß ¥Vžua  Ñ!É2t50zæÔ0qñÈv»­½Øa^	±YÔ®Ôê1­nÛ¿OÚž¸£ŠåU{ÆÑË8
-~Û†ýr—‰ütÂˆBëVx¤HjÇÃb
-qù1pÿ7F½í~„g˜ÖÛ)ûüLRGB’`n°¹³åCZ!á...Ð›Q˜¯œ2Ÿ¼_µÃ‘ÎÌ‘ªÝ<UE)Š<«`Ûl¨ìëS4}õ{_CoIÈîñ+çµ—Á £‚ý0‚ù0U#0€ÈÙxh¢ÙhÕ=rÞ_
->Üµ††¦0Ug„¨¸ùîe“'ðVúqy\0Uÿ 0Uÿ0 0U%0++0IU B0@04+²1N0%0#+https://sectigo.com/CPS0g0ˆ+|0z0K+0†?http://zerossl.crt.sectigo.com/ZeroSSLRSADomainSecureSiteCA.crt0++0†http://zerossl.ocsp.sectigo.com0%U0‚
-nextdns.io‚www.nextdns.io0‚{
-+Öy‚k‚ge u –—d¿UX—­÷C‡h7Bwéð:Õö¤ó6nF¤?Ê©Æ  –Þšš=   F0D  cƒë)1«|Âö;I°Bçôž ûñvÿ9Ã‹ì–§o' V‡¦oK±í?«ùW³>5ÔÞà0«ÆÞà£õ‰úJ u †ÔÇ(ªoþºox*M‘ªÎ-r1®Î]pA-%LÇÔ  –Þš™ù   F0D :Y¾ßÁØ‰r¼B[¶¬A~—fRÔí¶ÆÖo(œˆËp hHÔ·Ó³ËGiÕ'cÜÊN¾©¦­F¡¯ª kVNã u W”¼ó®©>3,™³÷ß›Â=q2%Ý!©%¬aÅN!  –Þšš<   F0D zòÁÔ¤#;Üò €	AyÁÇFJÝ@ëÊÎì…-R –F	ÀMc"îÚÈœ·¼	³ÖpSÈÑ–¶W€:0
-	*†H†÷
- ‚ hŸ}ÀduÌO«È°n•™
-"iÄWfœ0ñZÆŠÚ"…êˆºœYU]½>¶›9¨ÇÒ±mÂÂos ÿfå€3ÅÎð²¥8O;€¡»VA†l{hú©!LÛõ†ðcÖa=é™LïGêßF2&„ˆÆÈ6	FZ|’*M‹á:¶^ê>…é)2ô$E\•á@ ƒÛç¦#›~	‚þkp‘ŠTŽ1Y¡=r@G¹¨
-zðcr. UwP|êxÿ!ôÕ%'ÀòrO¾z‚¼Èt%õ­êÝŠ—+ûŠép_
-@vLE\hƒyÛä«z/!®@CWûëÔ®Ïð>u=Ó¶® IôñFóŠÕ½7TñZÛÄýôuZ×Ìzº¢«4½•Ñ^¡Žì4m
-ëjKeZs€»A{þ`~ŸšŠl½EŠjÉ‘’ÀŽ
-×¤”Î¯pÕ?¿—°±eˆð{qß±ÈRžJg!*aIBŠV‘ØFº +¨ïÇ,ïž5¾+>Ø@·îiÁî–yhE¡È—æÿê0<†É
-äRiÐe¬t³µ@qDÓY@‰ú^ÿ¯sûÃïŽFˆÚ	¨ú¥Ò¥?j§º7!áñ
-,ÚTR©äà”ûu¸iß«xÊ¼ ½«Lvß4«0Å½âêëÙT?¿	1Jž[´)mJûH0‚Õ0‚½ lU«ÛÐ’ÇØžÖ¿0
-	*†H†÷
- 0ˆ10	UUS10U
-New Jersey10UJersey City10U
-The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0
-200130000000Z
-300129235959Z0K10	UAT10U
-ZeroSSL1*0(U!ZeroSSL RSA Domain Secure Site CA0‚"0
-	*†H†÷
- ‚ 0‚
-‚ †is~£µ1Ø#ámÝ¤ÓTõëÜ!µ~]R|?1ëž	lÑY8^g~KVu²75Zd¥¾L,$Äm‰ŒÁÅ’Mfƒ÷á!tùËCÁq±«L8}‘*Æÿ‰©èä¡¹²Ú…	‰š8·Î÷NäÑhù
-kwÚ@Ä÷æ_ïûÍòæü=$¨_•dƒ£Yþ
-BÓoPRÃ«É…Z'<¾£ ^›ìâTÍc­ÇÜµºqÁ+{@–5ø€«™AèŠFßã|2Eô›EeŒPt 	—ºVuàJ­“juÝä5Ýïˆ/ó]Æ÷\û
-;ÈŸw ’%5-Ô€VÃé^x$ÈÞ´¦¢ÖÏß(gû0¦í
-mZ'ú¾…;ö`­r3ç}Èž*c˜±C†u¹;¤L½7t½Ú>—DÝ„¶ÒäBë£f¾tJµ¥Œ"Y
-‘bf:!æ´'€{íˆÙr2nš­]tUø‰¤ÈãFºÎÈÜEx;6E÷½Þ¯·-5E*ù¬X	„É…Ç¾«B y9•$¡Öù“g±ìÿ†»‚|é´µçOxRæWOaUé'™8yB¨©--–ÛjGþiV'4%:KIÀJ«vÆ¶i-oîþƒ†ç©Ë"mŸz’Wcè%9J©~hiÁH›@Á¦ãˆ#ÈÐêUiù(KBU÷ £‚u0‚q0U#0€Sy¿Zª+JÏT€áØ›Àò²fË0UÈÙxh¢ÙhÕ=rÞ_
->Üµ††¦0Uÿ†0Uÿ0ÿ 0U%0++0"U 00
-+²1N0g0PUI0G0E C A†?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v+j0h0?+0†3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%+0†http://ocsp.usertrust.com0
-	*†H†÷
- ‚ 
-Í Õz·Ñæ*f0M'ÅM[E•­dDjŸ˜–œEZ-–]Ï[¿=…ÇA1PÛ”$!S8b‡
-$;„îg¢'(«ðëù"ã\¹mHð’Yô2îWØ¼ågbFã¨mR€ß( ?:FðÐ–Ý‚ãÞ*¨õHµëÏÖ%$A“Ð:í· )«F<ßùiÈaíÏ»}w‰ªb!|š]¸§<D$a…éøÛ¤·Bk Êp¢Én:ò¾ìPßúã 8Ýâ5õ¹Ý×­HÈT[›ÏlØèù¡Mp
-Œù³¡ +¡êT¬ûû¹j&"­òÔ`Å5§Öø»Mz•
-9Cl¡Û™ZBÂ‘ƒ#æ2‘É÷Ç›¬¶°ul¦D|o+°ÀM¹h54Ù zœˆ˜‚Ì4`nÖÆ\§£a¤Nñ|.ÏÍ	K‚gÄÕ>´q^A¬ÑBzÅ‘m–’¤F"®Ü)òÊ›ã<É#z%}•@3×Ò&ûÞËÔºí\ µÇ5Éè(Î+åøDb½†¢#¾‚ÑØèI´?vBQt.Àæ<‡ßˆ7–š_+éšuxŠZi1u@œ8ÞuZz[LMtÒpÍ€eþ¶`–#ãzÐkö4Óíï[^Ô	‘ù EdyKÕV¨p{ÝŽÈ…o!²˜q'6Ãö’¸R†H0‚ê0‚Ò  !Ç‘‡]Và¢Û‰C<°³0
-	*†H†÷
- 0K10	UAT10U
-ZeroSSL1*0(U!ZeroSSL RSA Domain Secure Site CA0
-250517000000Z
-260517235959Z010U
-nextdns.io0‚"0
-	*†H†÷
- ‚ 0‚
-‚ “›úAÊ²“["Ê“ÕÊÕZ;ã `:(Ÿƒ
-|1®ûéç	U.
-¢‡îÖ“`LñXÈuBgUÌomJy”SÎ’W2ÆÎóµ~9[~ß ¥Vžua  Ñ!É2t50zæÔ0qñÈv»­½Øa^	±YÔ®Ôê1­nÛ¿OÚž¸£ŠåU{ÆÑË8
-~Û†ýr—‰ütÂˆBëVx¤HjÇÃb
-qù1pÿ7F½í~„g˜ÖÛ)ûüLRGB’`n°¹³åCZ!á...Ð›Q˜¯œ2Ÿ¼_µÃ‘ÎÌ‘ªÝ<UE)Š<«`Ûl¨ìëS4}õ{_CoIÈîñ+çµ—Á £‚ý0‚ù0U#0€ÈÙxh¢ÙhÕ=rÞ_
->Üµ††¦0Ug„¨¸ùîe“'ðVúqy\0Uÿ 0Uÿ0 0U%0++0IU B0@04+²1N0%0#+https://sectigo.com/CPS0g0ˆ+|0z0K+0†?http://zerossl.crt.sectigo.com/ZeroSSLRSADomainSecureSiteCA.crt0++0†http://zerossl.ocsp.sectigo.com0%U0‚
-nextdns.io‚www.nextdns.io0‚{
-+Öy‚k‚ge u –—d¿UX—­÷C‡h7Bwéð:Õö¤ó6nF¤?Ê©Æ  –Þšš=   F0D  cƒë)1«|Âö;I°Bçôž ûñvÿ9Ã‹ì–§o' V‡¦oK±í?«ùW³>5ÔÞà0«ÆÞà£õ‰úJ u †ÔÇ(ªoþºox*M‘ªÎ-r1®Î]pA-%LÇÔ  –Þš™ù   F0D :Y¾ßÁØ‰r¼B[¶¬A~—fRÔí¶ÆÖo(œˆËp hHÔ·Ó³ËGiÕ'cÜÊN¾©¦­F¡¯ª kVNã u W”¼ó®©>3,™³÷ß›Â=q2%Ý!©%¬aÅN!  –Þšš<   F0D zòÁÔ¤#;Üò €	AyÁÇFJÝ@ëÊÎì…-R –F	ÀMc"îÚÈœ·¼	³ÖpSÈÑ–¶W€:0
-	*†H†÷
- ‚ hŸ}ÀduÌO«È°n•™
-"iÄWfœ0ñZÆŠÚ"…êˆºœYU]½>¶›9¨ÇÒ±mÂÂos ÿfå€3ÅÎð²¥8O;€¡»VA†l{hú©!LÛõ†ðcÖa=é™LïGêßF2&„ˆÆÈ6	FZ|’*M‹á:¶^ê>…é)2ô$E\•á@ ƒÛç¦#›~	‚þkp‘ŠTŽ1Y¡=r@G¹¨
-zðcr. UwP|êxÿ!ôÕ%'ÀòrO¾z‚¼Èt%õ­êÝŠ—+ûŠép_
-@vLE\hƒyÛä«z/!®@CWûëÔ®Ïð>u=Ó¶® IôñFóŠÕ½7TñZÛÄýôuZ×Ìzº¢«4½•Ñ^¡Žì4m
-ëjKeZs€»A{þ`~ŸšŠl½EŠjÉ‘’ÀŽ
-×¤”Î¯pÕ?¿—°±eˆð{qß±ÈRžJg!*aIBŠV‘ØFº +¨ïÇ,ïž5¾+>Ø@·îiÁî–yhE¡È—æÿê0<†É
-äRiÐe¬t³µ@qDÓY@‰ú^ÿ¯sûÃïŽFˆÚ	¨ú¥Ò¥?j§º7!áñ
-,ÚTR©äà”ûu¸iß«xÊ¼ ½«Lvß4«0Å½âêëÙT?¿	1Jž[´)mJûH1‚r0‚n0`0K10	UAT10U
-ZeroSSL1*0(U!ZeroSSL RSA Domain Secure Site CA !Ç‘‡]Và¢Û‰C<°³0
-	`†He  ä0	*†H†÷
-	1	*†H†÷
-0	*†H†÷
-	1
-260413184254Z0/	*†H†÷
-	1" 8¬nE°UñöŽÐ“jŽ¤ôJõVëývènšï÷$Ø&~0y	*†H†÷
-	1l0j0	`†He*0	`†He0	`†He0
-*†H†÷
-0*†H†÷
- €0
-*†H†÷
-@0+0
-*†H†÷
-(0
-	*†H†÷
- ‚ €[PhÍã·ñ<§å'ÂMé@„Üô"Æˆ¥«»ÅªÂ‚y¬MFð”:ò#]aå¾Õsk´s°ü‹~b¾TxùÑn²¹t‹2”Cæ.Ä×oWYLaÑo
-/a€;¸ÖˆŒ“Ánè×È'\2ã®QœtŒu/Ó°áaÙzJ¥
-ÐR|“]v}7ŸðŒ²¼_ÖûAaxŒÿ¿?d±Æ0ÛFNè¸ÃI+êÎ.-å ”ºÇ+Íw
-WwÈkì^œÁÎÇY‚&œT„­ ±×ê»ˆÏÒ€t0O,[½©ü¡2Ð€4GamÌ¡¹‡/–*<àK5u
+</plist>
